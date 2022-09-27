@@ -45,3 +45,15 @@ function bingo(ticket, win){
       return 'Loser!';  
 }
 ```
+## Study projects
+
+* [Portfolio](https://mokritsa.github.io/portfolio/ "Photographer's portfolio")
+* [Mini Game](https://mokritsa.github.io/snake-game/ "Snake")
+
+## Educations
+
+* Belarusian State University of Transport Electrical Engineering Faculty
+* [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/dhy0ywhc "Certificate")
+
+## English
+### A1 (Beginner)
