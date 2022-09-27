@@ -22,3 +22,26 @@
 * Arduino IDE
 * Visual Studio Code
 * Processing IDE
+
+## Code Example
+```
+function bingo(ticket, win){
+  let winner = 0;
+  for(let arr of ticket){
+    str = arr[0];
+    let winChar = '';
+    str.split('').map(x =>{
+      if(x == String.fromCharCode(arr[1])){
+        if(winChar != x){
+          winChar = x;
+          winner++;
+        }
+      }
+    })
+  }
+    if(winner >= win)
+      return 'Winner!';
+    else
+      return 'Loser!';  
+}
+```
