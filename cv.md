@@ -48,6 +48,7 @@ function bingo(ticket, win){
 ## Study projects
 
 * [Portfolio](https://mokritsa.github.io/portfolio/ "Photographer's portfolio")
+* [Lagoona](https://mokritsa.github.io/Lagoona/ "travel website")
 * [Mini Game](https://mokritsa.github.io/snake-game/ "Snake")
 
 ## Educations
